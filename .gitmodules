@@ -1,0 +1,3 @@
+[submodule "acdcontrol"]
+	path = acdcontrol
+	url = git@github.com:warvariuc/acdcontrol.git
